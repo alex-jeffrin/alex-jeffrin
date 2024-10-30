@@ -3,9 +3,9 @@
 </h1>
 <h3 align="center">オレは アレックス・ジェフリン・D</h3>
 
-<a><img align="right" alt="mokey" width="400" src="https://raw.githubusercontent.com/alex-jeffrin/alex-jeffrin/main/src/images/luffy.jpg" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-jeffrin&style=flat-square" alt="alex-jeffrin" /> </p>
 
+<a><img align="right" alt="mokey" width="300" src="https://raw.githubusercontent.com/alex-jeffrin/alex-jeffrin/main/src/images/luffy.jpg" /></a>
 
 😂 Building self for the sake of this portfolio 
 
@@ -34,5 +34,5 @@
 &nbsp;
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> </p>
 
-
+&nbsp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-jeffrin&" alt="alex-jeffrin" /></p>
